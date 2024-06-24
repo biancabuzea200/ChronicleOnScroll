@@ -1,9 +1,9 @@
 # Chronicle On Scroll 📜
 
-### Chronicle [Integration Docs](https://docs.chroniclelabs.org/)
-### For Scroll Mainnet Oracles, please check the [Dashboard](https://chroniclelabs.org/dashboard )
+### 👉 Chronicle [Integration Docs](https://docs.chroniclelabs.org/)
+### 👉 For Scroll Mainnet Oracles, please check the [Dashboard](https://chroniclelabs.org/dashboard )
 
-Chronicle safeguards Oracle read functions with a whitelist, ensuring controlled access to critical data. However, the SelfKisser contract allows you to whitelist yourself on Testnet (or, as whimsically termed, "kiss" yourself).
+💡 Chronicle safeguards Oracle read functions with a whitelist, ensuring controlled access to critical data. However, the SelfKisser contract allows you to whitelist yourself on Testnet (or, as whimsically termed, "kiss" yourself).
 
 On Mainnet, to get access to production Oracles, please open a ticket on [Discord](https://discord.com/invite/gJzFthdD) via the 🆘｜support channel.
 
